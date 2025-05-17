@@ -22,7 +22,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
----
 
 
 ---
