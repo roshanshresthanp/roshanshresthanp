@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roshan Shrestha
 
-🧠 I spend more time on code than anything else — and I love solving real-world problems with tech.
+  🧠 <b>I spend more time on code than anything else — and I love solving real-world problems with tech. </b>
 
 ## 🧾 About Me
 - 🎓 MSc Computer Science student at the University of East London  
@@ -24,8 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshanshresthanp&show_icons=true&theme=radical)
 
 ---
 
