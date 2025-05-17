@@ -3,7 +3,7 @@
   🧠 <b>I spend more time on code than anything else — and I love solving real-world problems with tech. </b>
 
 ## 🧾 About Me
-- 🎓 MSc Computer Science student at the University of East London  
+- 🎓 MSc Computer Science student at the University of East London 
 - 💻 Backend & ML enthusiast working with **Laravel**, **Python**, and **AWS**  
 - 🧠 Currently building models for **early disease detection** and **hospital resource optimisation**  
 - 📦 Open-source contributor & lifelong learner  
